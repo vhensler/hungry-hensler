@@ -68,7 +68,9 @@ theme: hensler
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+      type: git
+      repository: https://github.com/vhensler/vhensler.github.io.git
+      branch: master
   
   # Logo
 logo: # Empty this to unset logo
