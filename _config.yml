@@ -78,7 +78,7 @@ logo: # Empty this to unset logo
 # Header
 menu:
   Home: .
-  Archives: archives
+  #Archives: archives
   Categories: categories
   About: /about/index.html
 
